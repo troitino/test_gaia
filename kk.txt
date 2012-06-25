@@ -1,3 +1,29 @@
-hola cara de cola
-hola cara culo
-hola
+commit bb9d093c2ffab1d1a31dd46b08019374cadefc81
+Author: panchitoretador <panchitoretador@gmail.com>
+Date:   Thu Jun 14 19:04:26 2012 +0300
+
+    Update master
+
+commit 4b06294d6986cd2df933b61effc70123477cde2f
+Author: panchitoretador <panchitoretador@gmail.com>
+Date:   Thu Jun 14 18:40:48 2012 +0300
+
+    Update master
+
+commit 5156c781871a4a90b7451e0a8c568cb74bbeee9e
+Author: ftroitino <ftroitino@linux-9xsn.site>
+Date:   Thu Jun 14 17:16:35 2012 +0200
+
+    esto es una prueba
+
+commit d05956b6cab2e0965302a6e7d5bfea16df6501a5
+Author: ftroitino <ftroitino@linux-9xsn.site>
+Date:   Thu Jun 14 11:14:24 2012 +0200
+
+    mi cambio
+
+commit f037f4e8a9ec65e80ca46da08786ba2e7b6ecba0
+Author: Francisco Troitiño <ftroitino@gmail.com>
+Date:   Thu Jun 14 01:59:31 2012 -0700
+
+    Initial commit
