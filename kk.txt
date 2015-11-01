@@ -2,7 +2,7 @@ commit bb9d093c2ffab1d1a31dd46b08019374cadefc81
 Author: panchitoretador <panchitoretador@gmail.com>
 Date:   Thu Jun 14 19:04:26 2012 +0300
 
-    Update master
+    Update masters
 
 commit 4b06294d6986cd2df933b61effc70123477cde2f
 Author: panchitoretador <panchitoretador@gmail.com>
